@@ -1,0 +1,17 @@
+/*CSS for Joshua A Norton*/
+
+body {
+  background-color: #99FFCC;
+}
+
+p {
+  font-size: 16px;
+}
+
+.highlight {
+  background-color: #669966;
+}
+
+#highlight-borders .highlight {
+  border: 1px solid black;
+}
